@@ -2,4 +2,6 @@
 
 This repo contains demos that I try
 
-- [Demo 1](./demo1)
+- [eye](./dwitter/eye.md)
+- [yinyang](./dwitter/yinyang.md.md)
+- [TIC Demo 1](./demo1)
