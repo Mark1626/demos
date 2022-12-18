@@ -1,5 +1,5 @@
-url: "https://mark1626.github.io/demos"
-theme: minima
-markdown: kramdown
+# mark1626's Journey to Demoscenes
 
-header_pages: ['']
+This repo contains demos that I try
+
+- [Demo 1](./demo1)
